@@ -1,12 +1,12 @@
 Feature: Example
 
-    As a
-    I want to be able to 
+  As a
+  I want to be able to
 
-    Background:
-        Given 
+  Background:
+  Given
 
-    Scenario: 
-        Given 
-        When 
-        Then 
+  Scenario:
+  Given
+  When
+  Then
